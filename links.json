@@ -14,27 +14,7 @@
   }, {
     "service": "linkedin", "handle": "scottyetterhall"
   }, {
-    "service": "github"
-  }, {
-    "service": "medium"
-  }, {
-    "service": "reddit"
-  }, {
-    "service": "mastodon",
-    "url": "https://fosstodon.org/@davorg"
-  }, {
-    "service": "threads"
-  }, {
-    "service": "letterboxd",
-    "handle": "realdavorg"
-  }, {
-    "service": "quora",
-    "handle": "Dave-Cross"
-  }, {
-    "service": "bluesky",
-    "handle" : "davorg.davecross.co.uk"
-  }, {
-    "service": "lastfm"
+    "service": "github", "handle": "Scott-Y-Hall"
   }],
   "links": [{
     "title": "It Came From Rockwell",
