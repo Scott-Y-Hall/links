@@ -5,7 +5,6 @@
   "og_image": "yetter4.jpg",
   "site_url": "https://scott-y-hall.github.io/links/",
   "desc": "I make things from software and paracord. Some of them are useful.",
-  "ga4": "Your Google Analytics key",
   "social": [{
     "service": "facebook"
   }, {
@@ -93,6 +92,6 @@
     "link": "https://blog.dave.org.uk/"
   }, {
     "title": "Email",
-    "link": "mailto:me@example.com"
+    "link": "mailto:banshee.one@gmail.com"
   }]
 }
