@@ -8,13 +8,11 @@
   "social": [{
     "service": "facebook", "handle": "s.y.hall"
   }, {
-    "service": "x-twitter", "handle": "@banshee_one"
+    "service": "x-twitter", "handle": "banshee_one"
   }, {
     "service": "instagram"
   }, {
-    "service": "tiktok"
-  }, {
-    "service": "linkedin"
+    "service": "linkedin", "handle": "scottyetterhall"
   }, {
     "service": "github"
   }, {
