@@ -1,10 +1,10 @@
 {
-  "name": "Dave Cross",
-  "handle": "davorg",
+  "name": "Scott Hall",
+  "handle": "banshee.one",
   "image": "yetter4.jpg",
   "og_image": "yetter4.jpg",
-  "site_url": "https://some-site.com/",
-  "desc": "I make things from software. Some of them are useful.<br>And I've been known to write a book or two.",
+  "site_url": "https://scott-y-hall.github.io/links/",
+  "desc": "I make things from software and paracord. Some of them are useful.",
   "ga4": "Your Google Analytics key",
   "social": [{
     "service": "facebook"
